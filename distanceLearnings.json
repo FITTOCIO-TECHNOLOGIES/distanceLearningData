@@ -1,0 +1,39 @@
+[{
+    "logo":"link",
+    "name":"Amity University",
+    "brochureLink":"link",
+    "features":[
+        "12 other specialization available",
+        "Duration: 2 Years",
+        "Fees: 2,80,000 /-",
+        "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
+    ],
+    "fees":"₹ 1,44,000/-"
+},
+{
+    "logo":"link",
+    "name":"Amity University",
+    "brochureLink":"link",
+    "features":[
+        "12 other specialization available",
+        "Duration: 2 Years",
+        "Fees: 2,80,000 /-",
+        "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
+    ],
+    "fees":"₹ 1,44,000/-"
+
+},
+{
+    "logo":"link",
+    "name":"Amity University",
+    "brochureLink":"link",
+    "features":[
+        "12 other specialization available",
+        "Duration: 2 Years",
+        "Fees: 2,80,000 /-",
+        "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
+    ],
+    "fees":"₹ 1,44,000/-"
+
+}
+]
