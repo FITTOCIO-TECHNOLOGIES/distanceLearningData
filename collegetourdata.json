@@ -11,14 +11,14 @@
     ]
 },
 {
-    "logo":"link",
-    "name":"Amity University",
-    "brochureLink":"link",
-    "courseName":"Masters of Business Administration- Marketing",
+    "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/we_school_logo.png",
+    "name":"We School",
+    "brochureLink":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/weschool%20pgdm%20brochure.pdf",
+    "courseName":"We School Post Graduate",
     "features":[
-        "12 other specialization available",
+        "18 other specialization available",
         "Duration: 2 Years",
-        "Fees: 2,80,000 /-",
+        "Fees: 1,01,000 /-",
         "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
     ]
 },
