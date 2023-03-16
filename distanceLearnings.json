@@ -1,65 +1,12 @@
 [{
-    "logo":"link",
-    "name":"NMIMS-SCE Online",
-    "brochureLink":"https://www.africau.edu/images/default/sample.pdf",
+    "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/amity%20university%20logo.png",
+    "name":"Amity University Online",
+    "brochureLink":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/amity%20mba%20brochure.pdf",
+    "courseName":"Masters of Business Administration",
     "features":[
-        "12 other specialization available",
+        "15 other specialization available",
         "Duration: 2 Years",
-        "Fees: 2,80,000 /-",
+        "Fees: 2,00,000 /-",
         "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
-    ],
-    "fees":"₹ 1,44,000/-"
+    ]
 },
-{
-    "logo":"link",
-    "name":"SCOL (Symbiosis Centre for Online Learning)",
-    "brochureLink":"https://www.africau.edu/images/default/sample.pdf",
-    "features":[
-        "12 other specialization available",
-        "Duration: 2 Years",
-        "Fees: 2,80,000 /-",
-        "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
-    ],
-    "fees":"₹ 1,44,000/-"
-
-},
-{
-    "logo":"link",
-    "name":"Jain Online",
-    "brochureLink":"https://www.africau.edu/images/default/sample.pdf",
-    "features":[
-        "12 other specialization available",
-        "Duration: 2 Years",
-        "Fees: 2,80,000 /-",
-        "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
-    ],
-    "fees":"₹ 1,44,000/-"
-
-},
-{
-    "logo":"link",
-    "name":"DY Patil University Online",
-    "brochureLink":"https://www.africau.edu/images/default/sample.pdf",
-    "features":[
-        "12 other specialization available",
-        "Duration: 2 Years",
-        "Fees: 2,80,000 /-",
-        "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
-    ],
-    "fees":"₹ 1,44,000/-"
-
-},
-{
-    "logo":"link",
-    "name":"Bharati Vidyapeeth Online",
-    "brochureLink":"https://www.africau.edu/images/default/sample.pdf",
-    "features":[
-        "12 other specialization available",
-        "Duration: 2 Years",
-        "Fees: 2,80,000 /-",
-        "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
-    ],
-    "fees":"₹ 1,44,000/-"
-
-}
-]
