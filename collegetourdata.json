@@ -1,6 +1,6 @@
 [{
     "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/amity%20university%20logo.png",
-    "name":"Amity University",
+    "name":"Amity University Online",
     "brochureLink":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/amity%20mba%20brochure.pdf",
     "courseName":"Masters of Business Administration",
     "features":[
@@ -35,14 +35,14 @@
     ]
 },
  {
-    "logo":"link",
-    "name":"Amity University",
-    "brochureLink":"link",
-    "courseName":"Masters of Business Administration- Marketing",
+    "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/LPU-Online-Logo.svg",
+    "name":"LPU Online",
+    "brochureLink":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/lpu%20mba%20brochure.pdf",
+    "courseName":"Masters of Business Administration",
     "features":[
-        "12 other specialization available",
+        "9 other specialization available",
         "Duration: 2 Years",
-        "Fees: 2,80,000 /-",
+        "Fees: 1,10,500 /-",
         "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
     ]
 },
