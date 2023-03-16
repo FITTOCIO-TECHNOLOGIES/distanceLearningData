@@ -113,7 +113,7 @@
     "features":[
         "6 other specialization available",
         "Duration: 2 Years",
-        "Fees: "FillFee",
+        "Fees: FillFee",
         "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
     ],
     "fees":"fee"
@@ -137,7 +137,7 @@
     "features":[
         "29 other specialization available",
         "Duration: 2 Years",
-        "Fees: "FillFee",
+        "Fees: FillFee",
         "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
     ],
     "fees":"fee"
@@ -196,7 +196,7 @@
     "brochureLink":"link",
     "features":[
         "5 other specialization available",
-        "Duration: "FillDuration",
+        "Duration: FillDuration",
         "Fees: 62,000 /-",
         "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
     ],
