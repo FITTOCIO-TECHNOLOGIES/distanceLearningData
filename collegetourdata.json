@@ -1,6 +1,6 @@
 [
     {
-    "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/amity%20university%20logo.png",
+    "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/amity%20university%20logo.png",
     "name":"Amity University Online",
     "brochureLink":"https://drive.google.com/file/d/1M6Up-Y8CYvF-7AXMW-In_1e-RFpsm8pE/view?usp=share_link",
     "courseName":"Masters of Business Administration",
@@ -12,7 +12,7 @@
     ]
     },
     {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/we_school_logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/we_school_logo.png",
         "name":"We School",
         "brochureLink":"https://drive.google.com/file/d/15z7ydMp8ywRcNpzXochyLtGihBM4jwkc/view?usp=share_link",
         "courseName":"Post Graduate Diploma in Management",
@@ -24,7 +24,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/nmims%20logo.jpg",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/nmims%20logo.jpg",
         "name":"Nmims",
         "brochureLink":"https://drive.google.com/file/d/1aTcb65Vd6C7QkriDetR9m43X1NvNEe_4/view?usp=share_link",
         "courseName":"Masters of Business Administration",
@@ -36,7 +36,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/LPU-Online-Logo.svg",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/LPU-Online-Logo.svg",
         "name":"LPU Online",
         "brochureLink":"https://drive.google.com/file/d/1_KS-MN_vZgEHj3rjea7cL0xy1Z6X0v_C/view?usp=share_link",
         "courseName":"Masters of Business Administration",
@@ -48,7 +48,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Online%20Manipal%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Online%20Manipal%20Logo.png",
         "name":"Online Manipal",
         "brochureLink":"https://drive.google.com/file/d/1JM52WCWkZtlAJ6oaKQxAEjVCEWf4Xbja/view?usp=share_link",
         "courseName":"Masters of Business Administration",
@@ -60,7 +60,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Chandigarh%20University%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Chandigarh%20University%20Logo.png",
         "name":"Chandigarh University",
         "brochureLink":"https://drive.google.com/file/d/1JIE9NzFl7GPkMhFG-Yp0_Q2x1jIU0LSV/view?usp=share_link",
         "courseName":"Masters of Business Administration",
@@ -72,7 +72,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Mit%20University%20%20logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Mit%20University%20%20logo.png",
         "name":"MIT University",
         "brochureLink":"https://drive.google.com/file/d/1Ox1ma3BJnVt49QKIoTf49pVlW6EdNgi9/view?usp=share_link",
         "courseName":"Post Graduate Diploma in Management",
@@ -84,9 +84,9 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/University%20Of%20Madras%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/University%20Of%20Madras%20Logo.png",
         "name":"University of Madras",
-        "brochureLink":"link",
+        "brochureLink":"",
         "courseName":"Masters of Business Administration",
         "features":[
             "6 other specialization available",
@@ -96,9 +96,9 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Periyar%20University%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Periyar%20University%20Logo.png",
         "name":"Periyar University",
-        "brochureLink":"link",
+        "brochureLink":"",
         "courseName":"Masters of Business Administration",
         "features":[
             "5 other specialization available",
@@ -108,9 +108,9 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Gitam%20University%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Gitam%20University%20Logo.png",
         "name":"Gitam University",
-        "brochureLink":"link",
+        "brochureLink":"",
         "courseName":"Masters of Business Administration",
         "features":[
             "6 other specialization available",
@@ -120,9 +120,9 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Bharathidasan%20University%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Bharathidasan%20University%20Logo.png",
         "name":"Bharathidasan University",
-        "brochureLink":"link",
+        "brochureLink":"",
         "courseName":"Masters of Business Administration",
         "features":[
             "5 other specialization available",
@@ -132,7 +132,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Jain%20University%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Jain%20University%20Logo.png",
         "name":"Jain University",
         "brochureLink":"https://drive.google.com/file/d/1dTLU8eLxI5A9lNxras2CAXAvqIeebvTk/view?usp=share_link",
         "courseName":"Masters of Business Administration",
@@ -144,9 +144,9 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/DY%20Patil%20University%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/DY%20Patil%20University%20Logo.png",
         "name":"DY Patil University",
-        "brochureLink":"link",
+        "brochureLink":"",
         "courseName":"Masters of Business Administration",
         "features":[
             "9 other specialization available",
@@ -156,7 +156,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Symbiosis%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Symbiosis%20Logo.png",
         "name":"Symbiosis",
         "brochureLink":"https://drive.google.com/file/d/1jUV8ASmi3GGNpSfhEr2J67RJkPsOQFSg/view?usp=share_link",
         "courseName":"Masters of Business Administration",
@@ -168,7 +168,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/ICFAI%20Logo.jpg",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/ICFAI%20Logo.jpg",
         "name":"ICFAI",
         "brochureLink":"https://drive.google.com/file/d/1Jy6tabAWVlzxzoypP-fBoW8j2KUeUaI_/view?usp=share_link",
         "courseName":"Masters of Business Administration",
@@ -180,7 +180,7 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/IIMA%20Logo.svg",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/IIMA%20Logo.svg",
         "name":"IIMA",
         "brochureLink":"https://drive.google.com/file/d/1d3vU4gbcdEmEKziwH5ilDEEjGDH36rcg/view?usp=share_link",
         "courseName":"Post Graduate Diploma in Management",
@@ -192,9 +192,9 @@
         ]
     },
      {
-        "logo":"https://github.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Ignou%20Logo.png",
+        "logo":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/blob/main/Ignou%20Logo.png",
         "name":"Ignou University",
-        "brochureLink":"link",
+        "brochureLink":"",
         "courseName":"Masters of Business Administration",
         "features":[
             "5 other specialization available",
