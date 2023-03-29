@@ -28,7 +28,12 @@
             "12th Class Certificate (Completing 12 years of formal schooling)",
             "Graduation completing Degree (3 Years or 4 Years Degree Program)"
         ],
-        "placement": "",
+        "admission-pic":[
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/amity/Screenshot%202023-03-29%20121304.png"
+        ],
+        "placement": [
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/amity/Screenshot%202023-03-29%20121412.png"
+        ],
         "scholarship": "",
         "gallery": [
             "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/amity/Amity%20university.jpg",
@@ -40,7 +45,11 @@
             "Learning at Amity, has proven to be a blessing in disguise. It helped me groom as a working professional under the guidance of esteemed faculty and the placement team. The programme has been truly beneficial for my career growth. It has enhanced my knowledge and skills that I could easily apply in my work environment.",
             "Firdaus Noorain - Manager"
         ],
-        "extra": ""
+        "extra": [
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/amity/Screenshot%202023-03-29%20121228.png",
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/amity/Screenshot%202023-03-29%20121332.png",
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/amity/Screenshot%202023-03-29%20121354.png"
+        ]
     },
     {
         "name": "We School - EVERYONE HAS AN EDGE, WE MAKE IT SHARPER.", 
@@ -83,5 +92,529 @@
             "Rebecca Figueiredo"
         ],
         "extra": ""
+    },
+    {
+        "name": "NMIMS",
+        "about": [
+            "NMIMS Global is amongst India's top institutions in the distance education space.",
+            "NMIMS Global began its ed-tech journey in 2013 with a state of the art learning management system to provide blended learning on connected platforms 24/7.",
+            "NMIMS Global is changing the dynamics of higher education delivery in India while empowering students across India and enabling them to fulfill their dreams and aspirations."
+        ],
+        "about-pic":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/nmims/Screenshot%202023-03-29%20151753.png",
+        "coursesandfees": [
+            "Master of Business Administration MBA",
+            "The 2-year MBA (Distance) program is designed to provide working professionals the flexibility to pace the program to fit their schedule, without the need to deprioritise their professional or personal commitments",
+            "Business Management - Master concepts to broaden and deepen core management concepts and business thinking models.",
+            "Financial Management - Gain a better understanding of the fundamentals of finance, auditing, accounting, and capital management while also learning the fundamentals of business management.",
+            "Marketing Management - Get a deeper understanding of the various functions and principles of marketing which can be practically applied in the corporate world at regional and global level",
+            "Banking and Finance - Gain in-depth knowledge of financial business operations, policies and understand the dynamic nature of stock markets, securities, and the global economy.",
+            "Operations Management - Build professional competencies in production and operations management, distribution channels & logistics, procurement, and quality management.",
+            "Human Resource Management - Learn the fundamentals of talent training, recruiting, retention, industrial relations, organizational skills, and their practical application in a corporate environment.",
+            "Supply Chain Management - Learn concepts used in supply chain management and delve deeper into its theory and application.",
+            "IT & Systems Management - Develop critical thinking, managerial skills & grasp the use of modern techniques to analyze and develop business solutions.",
+            "International Trade Management - Delve into trading policies, exchange of capital, producing and sourcing goods and services from across the globe.",
+            "Retail Management - Become adept in understanding retail environment management, and planning, evaluating, building, selecting, and effectively managing channels for retail distribution.",
+            "Duration",
+            "Minimum 2 years (divided into 4 semesters), maximum 4 years",
+            "Students can choose MBA (Distance) in Pro and Prime mode:",
+            "Prime: allows students to view recorded lectures",
+            "Prime+: allows students to gain access to live-interactive lectures of their choice at a fee of Rs. 1,200/- for individual subjects",
+            "Pro: allows students to attend live-interactive lectures and access recorded lectures as well",
+            "One time Admission Processing Fee of Rs. 1,200/- applicable",
+            "An initial amount of Rs. 5,000/- from the program fee shall be collected at the time of registration",
+            "An examination fee of Rs.600 will be charged per exam per attempt",
+            "EMI Facility available via credit cards from leading banks",
+            "20% fee waiver for Defence personnel and their immediate family members (Parents, Siblings or Spouse)"
+
+        ],
+        "coursesandfees-pic":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/nmims/Screenshot%202023-03-29%20152826.png",
+
+        "admission": [
+            "Registration - Register online at online.nmims.edu Post registration, a student counsellor will get in touch with you",
+            "Document Submission  - Submit relevant academic and work-experience documents.",
+            "Fee Submission - You may confirm your admission by paying the fee online, or by sending a demand draft in favor of 'SVKM's NMIMS' payable at Mumbai",
+            "Confirmation - On successfully completing all above-mentioned steps, you will receive a confirmation letter from our admissions team with further details. A ‘student number’ will be issued to you when the submitted documents and payments are approved by the University",
+            "Eligibility Criteria",
+            "Bachelor’s Degree (10+2+3) in any discipline from any recognised University or an equivalent degree recognised by Association of Indian Universities (AIU) with minimum 50% marks at graduation Level",
+            "OR",
+            "Bachelor’s Degree (10+2+3) in any discipline from any recognised University or equivalent degree recognised by Association of Indian Universities (AIU) with less than 50% marks at graduation level and a minimum of 2 years of work experience."
+        ],
+        "admission-pic":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/nmims/Screenshot%202023-03-29%20152745.png",
+            
+    
+        "placement": [
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/nmims/Screenshot%202023-03-29%20152051.png"
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/nmims/Screenshot%202023-03-29%20151945.png",
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/nmims/Screenshot%202023-03-29%20152718.png",
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/nmims/Screenshot%202023-03-29%20151721.png"
+        ]
+    },
+    {
+        "name": "LPU Online",
+        "about": [
+            "Online Master of Business Administration (MBA)",
+            "Equip yourself with the necessary managerial skills and analytical tools with our UGC Entitled Online MBA programme.",
+            "Get more than just a Degree with access to various exclusive resources, online courses, webinars and certifications!"
+
+        ],
+        "coursesandfees": [
+            "Programme Curriculum",
+            "FIRST SEMESTER",
+            "FINANCIAL REPORTING STATEMENTS AND ANALYSIS",
+            "MANAGERIAL ECONOMICS",
+            "INTERNATIONAL BUSINESS ENVIRONMENT",
+            "MARKETING MANAGEMENT",
+            "ORGANIZATIONAL BEHAVIOR & HUMAN RESOURCE DYNAMICS",
+            "SECOND SEMESTER",
+            "CORPORATE FINANCE",
+            "OPERATIONS MANAGEMENT & RESEARCH",
+            "BUSINESS ANALYTICS",
+            "RESEARCH METHODOLOGY",
+            "LEGAL ASPECTS OF BUSINESS",
+            "COMMUNICATION FOR LEADERS",
+            "THIRD SEMESTER",
+            "DISCIPLINE SPECIFIC ELECTIVE - I",
+            "DISCIPLINE SPECIFIC ELECTIVE - II",
+            "DISCIPLINE SPECIFIC ELECTIVE - III",
+            "SEMINAR ON SUMMER TRAINING",
+            "GENERIC ELECTIVE - I",
+            "CORPORATE STRATEGY & ENTREPRENEURSHIP",
+            "FOURTH SEMESTER",
+            "DISCIPLINE SPECIFIC ELECTIVE - IV ",
+            "DISCIPLINE SPECIFIC ELECTIVE - V",
+            "DISCIPLINE SPECIFIC ELECTIVE - VI",
+            "GENERIC ELECTIVE - II",
+            "CAPSTONE PROJECT",
+            "Specializations: Students may choose two areas from Discipline Specific Elective Basket/Specializations; 3 courses from the first area to be studied in semester 3 and 3 courses from second area to be studied in semester 4.",
+            "Duration: 2 Years (Maximum 4 years)"
+        ],
+        "coursesandfees-pic":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/LPU/Screenshot%202023-03-29%20145921.png",
+        "admission": [
+            "Eligibility Criteria: Bachelor's degree (any discipline) or equivalent or Completed Company Secretary (CS) from Institute of Company Secretaries of India (ICSI) or Completed Chartered Accountancy (CA) from Institute of Chartered Accountants of India (ICAI) or Completed Cost & Management Accountancy (CMA) from Institute of Cost Accountants of India (ICAI)"
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/LPU/Screenshot%202023-03-29%20150031.png",
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/LPU/Screenshot%202023-03-29%20145950.png"
+        ]
+    },
+    {
+        "name": "Online Manipal",
+        "about": [
+            "Accelerate your career growth with an online MBA",
+            "The online MBA programme at MUJ empowers you to take on leadership roles in an increasingly complex and dynamic world. This programme equips you with cutting-edge skills and advanced business fundamentals that will propel you in your career as a future leader. The programme also provides an opportunity to choose from their eight strategic electives to specialize in an area of your choice."
+        ],
+        "coursesandfees": [
+            "Programme structure",
+            "All students follow the same curriculum in the first and second semesters. While some core subjects are standard in the third and fourth semesters, courses will vary depending on their respective electives or specializations.",
+            "First Semester - Management Process and Organizational Behavior  , Business Communication , Statistics for Management  , Financial and Management Accounting , Managerial Economics , Human Resource Management ",
+            "Second Semester - Production and Operations Management , Financial Management  , Marketing Management , Management Information System  , Operations Research , Project Management ",
+            "Third Semester - Research Methodology , Legal Aspects of Business, 4 Subjects in the Area of Specialisation (4 credits each) .",
+            "Fourth Semester - Strategic Management & Business Policy , International Business Management, Business Leadership  , 4 Subjects in the Area of Specialisation (4 credits each) , Project.",
+            "Duration",
+            "Minimum 2 years (divided into 4 semesters), maximum 4 years",
+            "Students will be required to put in 18-21 hours of study time per week",
+            "Fee structure",
+            "Course Fees: INR 1,50,000/- or INR 37,500/- per semester, which includes an examination fee of INR 5,000/-"
+        ],
+        "coursesandfees-pic":[
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Manipal/Screenshot%202023-03-29%20150429.png",
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Manipal/Screenshot%202023-03-29%20150509.png"
+        ],
+        "admission": [
+            "Admission process",
+            "Application to online degrees at MUJ can be initiated through our website .www.onlinemanipal.com.",
+            "Our counselors will guide candidates through the admission process, which is as per regulatory requirements.",
+            "Applicants must submit a completed application form with relevant documents within the due date.",
+            "Please visit the FAQ section on our website to know more about the admission process.",
+            "Eligibility",
+            "Candidates must have a 10 + 2 + 3-year bachelor’s degree from a recognized university/institution or an equivalent qualification recognized by the Association of Indian Universities or other competent bodies in any discipline with a minimum of 50% marks in aggregate (45% for reserved categories).",
+            "Candidates must have a valid score from any aptitude test (CAT/MAT/CMAT/XAT/GMAT).",
+            "Candidates without an aptitude test score need to appear and clear the online aptitude test conducted by Manipal University Jaipur as per admission norms to the MBA programme."
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+           "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Manipal/Screenshot%202023-03-29%20150317.png" 
+        ]
+    },
+    {
+        "name": "Chandigarh University",
+        "about": [
+            "CU Institute of Distance & Online Learning (CU-IDOL)",
+            "The primary objective of CU-IDOL is to take a comprehensive approach to content, technology marketing, and services in order to provide high-quality education in close collaboration with businesses and academia, resulting in rigorous and industry-relevant programmes"
+        ],
+        "about-pic":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Chandigarh/Screenshot%202023-03-29%20121818.png",
+        "coursesandfees": [
+            "Master of Business Administration MBA",
+            "The Master of Business Administration (MBA) is a recognized professional degree that focuses on improving the skills required for a career in business and management. This program highlights the importance of international business and management education while also providing an overview of a global scope. The module is a real-life simulation of business arena and provides learners the opportunity to apply the concepts and theories learnt during the core module to a real-life project.",
+            "Fee Structure",
+            "Per Semester Fee - ₹16340/- ",
+            "Prospectus Fee: ₹500/- (one time)",
+            "SLM hard copy charges (optional): ₹1500/-"
+        ],
+        "coursesandfees-pic":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Chandigarh/Screenshot%202023-03-29%20124917.png",
+        "admission": [
+            "EligibilityBachelors degree from a recognized university or institution in any discipline. Graduates of accredited professional programs like CA/ICWA are also qualified.",
+            "Duration",
+            "2 years (4 semesters)"
+        ],
+        "admission-pic":[
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Chandigarh/Screenshot%202023-03-29%20125027.png"
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Chandigarh/Screenshot%202023-03-29%20121727.png"
+        ]
+    },
+    {
+        "name": "MIT University",
+        "about": [
+            "MIT School of Distance Education (MITSDE) is an integral constituent of MAEER’s MIT Pune, established in the year 2008. MAEER’s MIT was founded in the year 1983 by Dr. Vishwanath D. Karad, (Founder, Executive President & Managing Trustee) along with the collective effort of many educationists and social thinkers. MIT is among the first in professional education offering academic programs at more than 72 institutions and 4 universities across India. Drawing on the rich history of excellence in education and innovation, MITSDE’s offerings, curriculum design and delivery methodologies are unique and come together to offer the best-designed distance education programs that efficiently bridge the skills gap for working professionals",
+            "MITSDE Unique Features",
+            "100% placement assistance",
+            "CANVAS LMS - Learning-on-the-go",
+            "EMI Facility",
+            "Continuous Engagement through Live sessions, Master class, Industry connect Conclave and hands- on workshops ",
+            "Academic Support through a dedicated academic team",
+            "Career Services with Student Career Help Desk"
+        ],
+        "about-pic":"https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Mit/Screenshot%202023-03-29%20151129.png",
+        "coursesandfees": [
+            "Post Graduate Diploma in Management (PGDM)",
+            "Post Graduate Diploma (PGDM) in Project Management",
+            "The course is designed on the lines of the curriculum of the Project Management Institute (PMI), by eminent trainers and experts. The course nurtures project managers to play a pivotal role in planning, executing and evaluating projects successfully.",
+            "Post Graduate Diploma (PGDM) in Operations Management",
+            "PGDM in Operations Management prepares you to confront the challenges in the eld, head-on. Academic & industrial experts have designed the curriculum keeping in mind the current orientation of the global industry. To partake in the opportunities provided by the enlarged scale of operations globally.",
+            "Post Graduate Diploma (PGDM) in Human Resource Management",
+            "A PGDM in Human Resource Management can catapult your career in the appropriate direction. Designed by a team of experienced HR professionals, the comprehensive course focuses on the theory, technology and changing practices worldwide.",
+            "Post Graduate Diploma (PGDM) in Information Technology Management",
+            "The PGDM IT course has been designed to suit your varied needs. The program gives a complete understanding of the broad conceptual or theoretical elements and the emerging technological developments in the IT arena, keeping in mind the tight working schedules of IT professionals.",
+            "Post Graduate Diploma (PGDM) in Marketing Management",
+            "The course equips you with the knowledge of strategy formulation, understanding of global markets and emerging trends in digital marketing. It cultivates an innovative mindset and global perspective to be ready for future markets.",
+            "Post Graduate Diploma (PGDM) in Finance Management",
+            "The PG Diploma in Finance Management is suitably designed to be an asset in the ever-expanding financial sector. The course prepares you for fintech, investments and other nance-associated jobs that are finding their way in the new digitized world.",
+            "Post Graduate Diploma (PGDM) Logistics and Supply Chain Management",
+            "The PG Diploma in Logistics and Supply Chain Management course covers aspects like Blockchain, e-commerce logistics management, risk management framework and other global logistics & supply chain trends. The program thus helps you diversify your knowledge to suit business needs.",
+            "Post Graduate Diploma (PGDM) Material Management",
+            "The PG Diploma in Material Management presents a range of opportunities globally due to digital advancements and the emergence of e-commerce. Scope of materials management entails material planning, control purchasing, inventory control, and much more.",
+            "Post Graduate Diploma (PGDM) Banking & Financial Services",
+            "The PG Diploma in Financial Services teaches you crucial management concepts and makes you immediately employable in a host of important sectors like Banking, Insurance, Mutual Funds, Stocks and other finance-related functions that welcome talented financial services managers with a PG diploma.",
+            "Post Graduate Diploma (PGDM) Construction and Project Management",
+            "The PG Diploma in Construction and Project Management course prepares you for challenging roles within the construction and real estate domain, imparting the best theoretical as well as practical knowledge. It helps you develop the ability to lead a team of consultants, builders and site managers.",
+            "Duration: 21 months | Semesters: 3 | Eligibility: Any Graduate | Total credits: 78"
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            "MITSDE Placement Cell",
+            " Recruitment drives and Job Listing • Networking with the corporate to recruit the best talent in the industry • Access to a wide scope of opportunities via in-house placement portal listing job openings updated on weekly basis. • Career Planning & Counseling through a dedicated Career Help desk • Help you to identify best-suited career opportunities • Assistance in resume/CV building, interview preparations, the solution to all career-related queries Industry guidance • Career updates through Industry experts • Personalized feedback of Interviews and much more"
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Mit/Screenshot%202023-03-29%20151216.png",
+            "https://raw.githubusercontent.com/FITTOCIO-TECHNOLOGIES/distanceLearningData/main/assets/college/Mit/Screenshot%202023-03-29%20151309.png"
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
+    },
+    {
+        "name": "",
+        "about": [
+            
+        ],
+        "coursesandfees": [
+            
+        ],
+        "admission": [
+            
+        ],
+        "admission-pic":[
+            
+        ],
+        "placement": [
+            
+        ],
+        "scholarship": "",
+        "gallery": [
+            
+        ],
+        "review": [
+            
+        ],
+        "extra": [
+            
+        ]
     }
 ]
