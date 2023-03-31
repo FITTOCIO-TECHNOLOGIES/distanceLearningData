@@ -274,5 +274,29 @@
             "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
         ],
         "fees": "₹ 58,000/-"
+    },
+    {
+        "logo": "",
+        "name": "SOIL University",
+        "brochureLink": "https://drive.google.com/file/d/1-SsAH4lj8MQjAFPlcpzVLuBCnPw6ck2h/view?usp=sharing",
+        "features": [
+            "4 other specialization available",
+            "Duration: 2 Years",
+            "Fees: 13,40,000 /-",
+            "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
+        ],
+        "fees": "₹ 13,40,000/-"
+    },
+    {
+        "logo": "",
+        "name": "Kalasalingam Academy",
+        "brochureLink": "https://drive.google.com/file/d/1NXMe0ZhKqGPieINeZ_vTuXoYcpzLXwJt/view?usp=sharing",
+        "features": [
+            "5 other specialization available",
+            "Duration: 2 Years",
+            "Fees: 1,40,000 /-",
+            "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
+        ],
+        "fees": "₹ 1,40,000/-"
     }
 ]
