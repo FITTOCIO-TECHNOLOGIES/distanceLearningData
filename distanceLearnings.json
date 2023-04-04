@@ -298,5 +298,17 @@
             "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
         ],
         "fees": "₹ 1,40,000/-"
+    },
+    {
+        "logo": "",
+        "name": "Online Uttaranchal University",
+        "brochureLink": "https://drive.google.com/file/d/1j6qIxGFqY6nVUOvKXwUGzz5Bol93WU-r/view?usp=sharing",
+        "features": [
+            "6 other specialization available",
+            "Duration: 2 Years",
+            "Fees: 68,000 /-",
+            "Eligibility: Graduation in any discipline or equivalent with min 50% Marks."
+        ],
+        "fees": "₹ 68,000/-"
     }
 ]
