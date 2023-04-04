@@ -375,10 +375,27 @@
         "extra": []
     },
     {
-        "name": "",
-        "about": [],
+        "name": "JGI JAIN University ",
+        "about": [
+            "JAIN (Deemed-to-be University) (JU) is an intellectual destination that draws inspired students from more than 43 countries to one of the world's greatest cities -Bengaluru. Wo promote innovation and entrepreneurship by bringing people, ideas and resources together to one platform through interdisciplinary collaboration and interaction. From academic discoveries to athletic record, from artistic creations to scientific breakthroughs, students are inspiring and impactinf=g our success in many ways.",
+            "To provide quality education, creating human assets/ manpower and intellectual capital.",
+            "to enhance research and development in different disciplines.",
+            "to develop new generation entrepreneurs who will be instrumental in fuelling economic growth.",
+            "to create able leaders, managers and technocrats.",
+            "to foster an ethical environment founded on human values in which both spirit and skill will thrive to enrich the quality of life."
+        ],
         "coursesandfees": [],
-        "admission": [],
+        "admission": [
+            "Admission and selection process",
+            "The applicant must appear for and clear the jain entrance Test (JET) process. The JET Process includes",
+            "A.Written Test - Online.",
+            "Candidate without any competitive exam scores to appear for the written test candidate shortlisted will qualify for next round(S).",
+            "Candidate is exempted from written test and directly quality for next round(S) is they have a valid score in any of the following.",
+            "MAT score of 550 and above or NMAT score of 160 and above or cat score of 50 percentile and above or GMAT score of 50 percentile and above or CMAT score of 50 percentile and above XAT score of 50 percentile and above.",
+            "B.Essay Writing-in person only.",
+            "C. Presentation-in person only.",
+            "D. Personal interview-in person only."
+        ],
         "admission-pic": [],
         "placement": [],
         "scholarship": "",
@@ -399,10 +416,29 @@
         "extra": []
     },
     {
-        "name": "",
-        "about": [],
-        "coursesandfees": [],
-        "admission": [],
+        "name": "Symbiosis University",
+        "about": [
+            "SCOL brings to you a degree from symbiosis, one of most coveted educational brands in the country. successful students will got degrees from symbiosis skills & professional university, pune.",
+            "our expert faculty will mentor and guide you to ensure that you acquire the right knowledge and skill.",
+            "daily online classes, faculty interaction and mentorship sessions will make your learning experience unique."
+        ],
+        "coursesandfees": [
+            "Master of Business Administration (MBA).",
+            "The program aims to educate & prepare learners with the requisite knowledge related to management and business decision. This program also helps learners to be acquainted with the skills and knowledge necessary to become effective leaders. The Finance etc. will help the learners to choose their career in the respective domain.",
+            "Master Of Business Administration (MBA).",
+            "Splz: Marketing, Finance, Human Resource Mgmt., Healthcare Mgmt.",
+            "Total:Rs. 70,000 | Duration: 2 Years"
+        ],
+        "admission": [
+            "Admission Process.",
+            "1 Apply Now.",
+            "2 Fill up the Form.",
+            "3 Login Using ID & password.",
+            "4 iD & password generated.",
+            "5 Pay Application Fees.",
+            "6 Upload Documents.",
+            "7 Pay the program Fees."
+        ],
         "admission-pic": [],
         "placement": [],
         "scholarship": "",
@@ -411,9 +447,21 @@
         "extra": []
     },
     {
-        "name": "",
-        "about": [],
-        "coursesandfees": [],
+        "name": "The Institute of Financial Analysts of India",
+        "about": [
+            "The ICFAI foundation for Higher Education (IFHE) Hyderabad is declared as a Deemed to be University under section 3 of UGC Act, 1956 during the year 2008.",
+            "IFHE is a self financing and equal opportunity Higher Education Institution (HEI) It believes in creating and disseminating knowledge and skills in core and frontier areas through innovative education programs, research, consulting and publishing.",
+            "As the real world got transformed due to advances in science and technology, and social economic and geo-political developments, it becomes imperative for business to re-engineer operations to meet the evolving environment.The role of management professionals with relevant skills and knowledge to meet these dynamic challenges becomes critical.",
+            "Students enrolled in these programmes are groomed for leadership roles in management profession by excellent faculty and pedagogy supported by vast content resources."
+        ],
+        "coursesandfees": [
+            "The Distance Learning MBA Program brings together the legacy of over 3 decades of academic excellence in Management education and contemporany technological tools that aim to equip the students with skills for the 21st century workplace.",
+            "The syllabus has been exclusively designed by experienced faculty to enable a structured academic progression and to gain edge in professional advancement.",
+            "The program provides students an opportunity to develop cognitive and analytical skills for understanding the business environment to facilitate business excellence and personal accomplishment. it aims to prepare students for a balanced work and life roles and enable financial independence.",
+            "Programme Fees",
+            "Programme Fees INR 65,000",
+            "Application Fees INR 10,000/-"
+        ],
         "admission": [],
         "admission-pic": [],
         "placement": [],
@@ -479,6 +527,30 @@
             "Eligibility",
             "Passed Bachelor Degree of Minimum 3 years duration with at least 50% marks (45% in case of candidates belonging to reserved category)"
         ],
+        "admission-pic": [],
+        "placement": [],
+        "scholarship": "",
+        "gallery": [],
+        "review": [],
+        "extra": []
+    },
+    {
+        "name": "",
+        "about": [],
+        "coursesandfees": [],
+        "admission": [],
+        "admission-pic": [],
+        "placement": [],
+        "scholarship": "",
+        "gallery": [],
+        "review": [],
+        "extra": []
+    },
+    {
+        "name": "",
+        "about": [],
+        "coursesandfees": [],
+        "admission": [],
         "admission-pic": [],
         "placement": [],
         "scholarship": "",
